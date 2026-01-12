@@ -1,0 +1,49 @@
+name: Open PvP v8 Balance Fixes
+
+unit.quad.health: 6700
+
+unit.toxopid.health: 23000
+
+unit.eclipse.weapons.0.bullet.damage: 128f
+unit.eclipse.speed: 0.65
+
+unit.antumbra.speed: 0.64
+
+unit.arkyid.speed: 0.69
+unit.arkyid.armor: 8
+
+unit.toxopid.speed: 0.67
+unit.toxopid.armor: 16
+
+unit.scepter.speed: 0.71
+
+unit.reign.speed: 0.70
+unit.reign.armor: 21
+
+unit.vela.armor: 12
+unit.vela.speed: 0.60
+
+unit.corvus.speed: 0.55
+unit.corvus.armor: 12
+
+unit.tecta.health: 8300
+unit.tecta.armor: 10
+unit.tecta.speed: 0.75
+unit.tecta.weapons.0.bullet.lifetime: 60.5
+
+unit.collaris.weapons.0.bullet.lifetime: 68
+unit.collaris.weapons.0.bullet.damage: 230f
+
+unit.precept.speed: 0.67
+
+unit.conquer.speed: 0.70
+
+unit.avert.health: 1250
+unit.avert.weapons.0.bullet.lifetime: 27f
+
+unit.disrupt.weapons.0.bullet.damage: 145f
+unit.disrupt.health: 14000
+
+block.afflict.requirements: [graphite/250, silicon/250, surge-alloy/100, oxide/40]
+
+block.malign.shootType.damage: 67
