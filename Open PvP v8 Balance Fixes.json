@@ -41,6 +41,7 @@ unit.conquer.speed: 0.70
 unit.avert.health: 1250
 unit.avert.weapons.0.bullet.lifetime: 27f
 
+unit.obviate.health: 1700
 unit.obviate.weapons.0.bullet.damage: 40f
 unit.obviate.weapons.0.bullet.lightningDamage: 12.5f
 
@@ -49,6 +50,20 @@ unit.quell.weapons.0.bullet.damage: 62.5f
 unit.disrupt.weapons.0.bullet.spawnUnit.weapons.0.bullet.splashDamage: 150f
 unit.disrupt.health: 14000
 
+block.ground-factory.requirements: [copper/75, lead/70, silicon/50]
+
+block.additive-reconstructor.requirements: [copper/215, lead/120, silicon/80]
+block.exponential-reconstructor.requirements: [lead/2000, titanium/2000, thorium/750, silicon/1000, plastanium/450, phase-fabric/300, surge-alloy/600]
+block.tetrative-reconstructor.requirements: [lead/3000, thorium/1000, silicon/3000, plastanium/600, phase-fabric/550, surge-alloy/600]
+
+block.ship-fabricator.requirements: [beryllium/185, silicon/200]
+
+block.mech-fabricator.requirements: [beryllium/230, silicon/190, tungsten/10]
+
+block.tank-fabricator.requirements: [beryllium/150, silicon/190,]
+
 block.afflict.requirements: [graphite/250, silicon/250, surge-alloy/100, oxide/40]
 
 block.malign.shootType.damage: 67
+
+block.carbide-wall-large.health: 4690
