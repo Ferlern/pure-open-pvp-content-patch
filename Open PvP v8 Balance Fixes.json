@@ -1,5 +1,9 @@
 name: Open PvP v8 Balance Fixes
 
+unit.evoke.payloadCapacity: 0
+unit.incite.payloadCapacity: 0
+unit.emanate.payloadCapacity: 0
+
 unit.quad.health: 6700
 
 unit.toxopid.health: 23000
